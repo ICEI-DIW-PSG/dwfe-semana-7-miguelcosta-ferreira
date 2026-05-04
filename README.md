@@ -4,8 +4,8 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Miguel Ferreira da Costa
+- Matricula: 1657770
 
 ## Print do console do navegador
 
