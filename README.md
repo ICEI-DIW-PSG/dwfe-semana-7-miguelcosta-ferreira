@@ -4,12 +4,13 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Miguel Ferreira da Costa
+- Matricula: 1657770
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+<< <img width="1436" height="809" alt="image" src="https://github.com/user-attachments/assets/48a8aaa0-aabe-4c5e-995c-2db5227e3e7e" />
+ >>
 
 
 
